@@ -8,8 +8,8 @@ Usage
 
 Download the bash script, run it:
 
-'''bash
+```bash
 > bash wikilist.sh
-'''
+```
 
 The resulting text file should appear in your working directory.
